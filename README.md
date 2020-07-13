@@ -6,15 +6,12 @@
 Medicare Provider and Utilization Payment | CMS
 ==============================================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting released
 
 Main Overview
 -------------
 
-This release provides information of medical specialists, physicians and
-other healthcare professionals who can be consulted by those in the
-Medicare program released by the Centers for Medicare & Medicaid
-Services (CMS).
+This release provides information on procedures and services by medical professionals provided to those who have Medicare released by the Centers for Medicare & Medicaid Services (CMS).
 
 Centers for Medicare & Medicaid provide substantial amounts of data to
 the public about their programs, various health care topics, and care
@@ -26,7 +23,7 @@ by the CMS, please visit the [CMS Data homepage](https://data.cms.gov/).
 This resource is presented in both the JSON and CSV formats. The
 included dataset contains the following columns:
 
-`"npi", "nppes_provider_last_org_name", "nppes_provider_first_name", "nppes_provider_mi", "nppes_credentials", "nppes_provider_gender", "nppes_entity_code"`
+`"npi", "nppes_provider_last_org_name", "nppes_provider_first_name", "nppes_provider_mi", "nppes_credentials", "nppes_provider_gender", "nppes_entity_code", "nppes_provider_street1","nppes_provider_street2", "nppes_provider_city", "nppes_provider_zip", "nppes_provider_state", "nppes_provider_country", "provider_type", "medicare_participation_indicator", "place_of_service", "hcpcs_code", "hcpcs_description", "hcpcs_drug_indicator", "line_srvc_cnt", "bene_unique_cnt", "bene_day_srvc_cnt", "average_medicare_allowed_amt", "average_submitted_chrg_amt", "average_medicare_payment_amt", "average_medicare_standard_amt"`
 
 More Information
 ----------------

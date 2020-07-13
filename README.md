@@ -6,9 +6,7 @@
 Medicare Provider and Utilization Payment| CMS
 ==============================================
 
-The source code outlining how this product gathers, transforms, revises
-and publishes its datasets is available at
-<https://github.com/rearc-data/medicare-provider-utilization-payment>.
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting
 
 Main Overview
 -------------

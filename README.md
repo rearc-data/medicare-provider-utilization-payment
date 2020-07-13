@@ -3,7 +3,7 @@
 </a>
 
 
-Medicare Provider and Utilization Payment| CMS
+Medicare Provider and Utilization Payment | CMS
 ==============================================
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting

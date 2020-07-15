@@ -6,7 +6,7 @@
 Medicare Provider and Utilization Payment | CMS
 ==============================================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting released
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-akoud2x5nzx5s](https://aws.amazon.com/marketplace/pp/prodview-akoud2x5nzx5s).
 
 Main Overview
 -------------
